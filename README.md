@@ -7,7 +7,8 @@
   </ol>
 
 <h2>Process</h2>
-<ol>
+<ul>
   <li> Vac_week8 (8/15 ~ 8/ 21) </li>
   <li> (9/16 ~ 9/23) 1문제 (baekjoon 10211 Maximum Subarray) </li>
+  <li> (9/23 ~ 9/30) 1문제 (baekjoon 2525 Oven Clock Bronze 4) </li>
  
