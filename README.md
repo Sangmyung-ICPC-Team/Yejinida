@@ -9,5 +9,6 @@
 <h2>Process</h2>
 <ul>
   <li> (1/03 ~ 1/06) solved 2 (baekjoon 1292, baekjoon 2606) </li>
+  <li> (1/13 ~ 1/20) solved 2 (baekjoon 1246, leetcode 1217) </li>
 
   
